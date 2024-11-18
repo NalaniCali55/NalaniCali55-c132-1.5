@@ -1,0 +1,10 @@
+@media(min-width: 768px) {
+    .resume-input {
+        width: 50%;
+    }
+     
+}
+
+footer {padding-left: 5%;
+        padding-top: 5%;
+}
